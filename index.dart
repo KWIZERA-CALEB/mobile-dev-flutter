@@ -178,16 +178,16 @@ class Manager extends Employee {
 var userName = 'Kwizera Caleb';
 
 
-void main() {
+// void main() {
   
-  print(userName.length);
+//   print(userName.length);
  
-  var workOutput = Manager('Caleb', 20);
-  workOutput.work();
+//   var workOutput = Manager('Caleb', 20);
+//   workOutput.work();
   
-  var car = Car('Toyota', 1998, 'Made by toyota');
-  car.drive(20);
+//   var car = Car('Toyota', 1998, 'Made by toyota');
+//   car.drive(20);
 
-  printWantedEvenNumbers(10, numberTypesToIterate: 'odd');
-}
+//   printWantedEvenNumbers(10, numberTypesToIterate: 'odd');
+// }
 
